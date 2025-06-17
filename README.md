@@ -1,5 +1,7 @@
 # Button up your Voron front doors
 
+<img src="pics/all_buttoned_up.jpg" width=20% height=20%>
+
 The stock Voron doors do not always seal fully all around. Especially at higher chamber temperature, the doors start flexing away from the frame even so slightly. Allowing relatively cold ambiant air to flow in, warping big prints.
 
 This mod adds magnets for keeping the door sealed at all time. One part mounts on the frame, the mating part goes on the door. Joined by four pairs of magnets.
@@ -34,30 +36,25 @@ You probably want 6 of them.
  - buttonup_handle_b ×2.
  - VHB tape ~27x13mm ×4.
 
-## Example
+## Demo
 
 https://github.com/user-attachments/assets/6517687b-0205-439a-93e8-213152b58843
-
-![pics/all_buttoned_up.jpg](pics/all_buttoned_up.jpg)
 
 ## Details
 
 The buttonup_frame adds clearance around the doors compared to the stock part. With the exception of the screw, which cannot possibly be moved. This reduces friction.
 
-![pics/door_clearance.jpg](pics/door_clearance.jpg)
+<img src="pics/door_clearance.jpg" width=50% height=50%>
 
 
-After ABS shrinkage, the top of the pocket should be about the same diameter as the magnet for a friction fit. Half-way down the pocket, ridges add an extra 0.2mm of interference for a tight fit.
+After ABS shrinkage, the top of the pocket should be about the same diameter as the magnet for a friction fit. Half-way down the pocket, 0.2mm ridges add extra interference for a tight fit.
 
-![pics/pocket_ridges.jpg](pics/pocket_ridges.jpg)
-
+<img src="pics/pocket_ridges.jpg" width=50% height=50%>
 
 To make magnet removal easier, the frame part has holes to push them out from the back. The door parts have accomodation for a small flat head screw driver.
 
-![pics/magnet_removal_feature.jpg](pics/magnet_removal_feature.jpg)
-
+<img src="pics/magnet_removal_feature.jpg" width=50% height=50%>
 
 For easy identification; before and after printing; the magnet dimensions are written on every parts. And the door size on the frame part.
 
-![pics/info_text_cad.jpg](pics/info_text_cad.jpg)
-![pics/info_text_photo.jpg](pics/info_text_photo.jpg)
+<img src="pics/info_text_cad.jpg" width=50% height=50%><img src="pics/info_text_photo.jpg" width=50% height=50%>
