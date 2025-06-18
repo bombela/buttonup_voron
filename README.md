@@ -2,38 +2,73 @@
 
 <img src="pics/all_buttoned_up.jpg" width=20% height=20%>
 
-The stock Voron doors do not always seal fully all around. Especially at higher chamber temperature, the doors start flexing away from the frame even so slightly. Allowing relatively cold ambiant air to flow in, warping big prints.
+The stock Voron doors do not always seal fully all around.
+Especially at higher chamber temperature.
+The doors have a tendecy to flex away from the frame ever so slightly.
+Allowing relatively cold ambiant air to flow in, warping big prints.
 
-This mod adds magnets for keeping the door sealed at all time. One part mounts on the frame, the mating part goes on the door. Joined by four pairs of magnets.
+This mod adds (a lot of) magnets for keeping the door sealed at all time at any temperature.
+One part mounts on the frame, the mating part goes on the door.
+Joined by four pairs of magnets.
 
-With is enough magnets to seal well with those ubiquitous low quality magnets. They start weak, and lose almost all strength beyond 70°C.
+This is enough magnets to seal well with those ubiquitous low quality magnets.
+Though keep in mind that the worst ones will lose almost all strength beyond 70°C.
 
-With four pairs of 80°C resistant N52 magnets, this makes for a really strong seal. And you might want to only use two pairs of magnets if you find the doors annoying to open!
+Be aware that with N52 grade magnets; rated for 80°C; the doors might become difficult to open at ambient temperature.
+You can always start with half the magnets.
 
-This mode also comes with handles for a consistant seal all around.
+This mod also comes with handles for a consistantly tight seal at high chamber temperature all around.
 
 ## Printed parts and hardware
 
-All parts to prints are in the folders [STLs/](STLs/) and [STEPs/](STEPs/). You will find variation for 5.8x2.8mm and 6.0x3.0mm magnets for the four parts. As well as various door thicknesses (door + seal) for the part that mounts on the frame.
+All parts to prints are in the folders [STLs/](STLs/) and [STEPs/](STEPs/) (your choice).
+You will find variation for 5.8x2.8mm and 6.0x3.0mm magnets for the four parts.
+As well as various door thicknesses (door + seal) for the part that mounts on the frame.
 
-For the stock Voron2.4 you want the "6.0x3.0magnet_3.5mm_door" variations. I recommend 3 buttonup per doors in addition to the buttonup handles. One button up per corner and one in the middle.
+For the stock Voron2.4 you want the "6.0x3.0magnet_3.5mm_door" variant.
 
-### Per buttonup:
+### Recommended full set
+
+3 buttonup per doors in addition to the handles. See photo atop.
+
+#### Printed parts
+ - buttonup_frame ×8.
+ - buttonup_door ×6.
+ - buttonup_handle_a ×2.
+ - buttonup_handle_b ×2.
+
+#### Hardware
+ - ~6x3mm magnets ×64.
+ - M3x8mm (for 3.5mm doors. Longer for thicker door) ×8.
+ - M3 hammer nut ×8.
+ - VHB tape ~44x13mm ×6.
+ - VHB tape ~27x13mm ×4.
+
+### Per buttonup
 
 You probably want 6 of them.
 
+#### Printed parts
  - buttonup_frame ×1.
-   - M3x8mm (for 3.5mm doors. Adjust for thicker door) ×1.
-   - M3 hammer nut ×1.
  - buttonup_door ×1.
+
+#### Hardware
+ - ~6x3mm magnets ×8.
+ - M3x8mm (for 3.5mm doors. Longer for thicker door) ×1.
+ - M3 hammer nut ×1.
  - VHB tape ~44x13mm ×1.
 
-### For the four handles:
+### For a set of four handles
+
+#### Printed parts
  - buttonup_frame ×2.
-   - M3x8mm (for 3.5mm doors. Adjust for thicker door) ×2.
-   - M3 hammer nut. ×2.
  - buttonup_handle_a ×2.
  - buttonup_handle_b ×2.
+
+#### Hardware
+ - ~6x3mm magnets ×16.
+ - M3x8mm (for 3.5mm doors. Longer for thicker door) ×2.
+ - M3 hammer nut ×2.
  - VHB tape ~27x13mm ×4.
 
 ## Demo
@@ -55,6 +90,6 @@ To make magnet removal easier, the frame part has holes to push them out from th
 
 <img src="pics/magnet_removal_feature.jpg" width=50% height=50%>
 
-For easy identification; before and after printing; the magnet dimensions are written on every parts. And the door size on the frame part.
+For easy identification; before and after printing; the magnet dimensions are written on every parts. With the addition of the door size on the frame part.
 
 <img src="pics/info_text_cad.jpg" width=50% height=50%><img src="pics/info_text_photo.jpg" width=50% height=50%>
