@@ -19,7 +19,7 @@ You can always start with half the magnets.
 
 This mod also comes with handles for a consistantly tight seal at high chamber temperature all around.
 
-## Printed parts and hardware
+## Printed parts and hardware (BOM)
 
 All parts to prints are in the folders [STLs/](STLs/) and [STEPs/](STEPs/) (your choice).
 You will find variation for 5.8x2.8mm and 6.0x3.0mm magnets for the four parts.
